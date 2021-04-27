@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+
+body{
+     background-image: url(./images/photo-1557626204-59dd03fd2d31.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+/* Header */
+.contact{
+   margin: 15px 0px 2px 2px;
+   display: flex;
+   justify-content: space-between;
+   border: 1px solid gray;
+   border-radius: 2px;
+   padding: 8px 9px;
+   text-decoration: none;
+   background-color: rgba(207, 33, 193, 0.247);
+}
+.contact>a{
+    color: rgb(223, 117, 30);
+}
+#email {
+    padding-right: 52px;
+}
+
+/* tabs */
+.tabs{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 20px;
+    margin: 0px 2px;
+    border: 1px solid yellow;
+    background-color: azure;
+}
+.tab:hover{
+    color: rgba(126, 107, 107, 0.459);
+}
