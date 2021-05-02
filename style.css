@@ -32,8 +32,8 @@ body{
 .tabs{
     display: flex;
     justify-content: space-around;
-    padding: 15px 20px;
-    margin: 0px 2px;
+    padding: 1% 5%;
+    margin: 0% 0%;
     border: 1px solid yellow;
     background-color: azure;
 }
