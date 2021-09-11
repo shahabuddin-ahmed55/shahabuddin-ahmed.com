@@ -33,9 +33,9 @@
 //     console.log("This is not a  number");
 // }
 
-var table = +prompt("which table you want");
+// var table = +prompt("which table you want");
 
-for (var i = 1; i < 11; i++) {
-    console.log(table + "x" + i + "=" + table*i);
-    document.write(table + "x" + i + "=" + table*i);
-}
+// for (var i = 1; i < 11; i++) {
+//     console.log(table + "x" + i + "=" + table*i);
+//     document.write(table + "x" + i + "=" + table*i + "<br>");
+// }
